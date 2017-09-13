@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "koa": "^2.3.0",
+    "koa-socket": "^4.4.0"
+  }
+}
